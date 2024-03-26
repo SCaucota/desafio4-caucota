@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "title": "Bajo la misma estrella",
+    "description": "Libro escrito por John Green",
+    "code": "abc1",
+    "price": 8999,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 25,
+    "category": "Romance"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter y la piedra filosofal",
+    "description": "Libro escrito por J.K.Rowling",
+    "code": "abc12",
+    "price": 22000,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 30,
+    "category": "Fantasía"
+  },
+  {
+    "id": 3,
+    "title": "El hobbit",
+    "description": "Escrito por J.R.R.Tolkien",
+    "code": "abc123",
+    "price": 10500,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 15,
+    "category": "Fantasía"
+  },
+  {
+    "id": 4,
+    "title": "Cinder",
+    "description": "Escrito por Marissa Meyer",
+    "code": "abc1234",
+    "price": 18500,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 40,
+    "category": "Ciencia Ficción"
+  },
+  {
+    "id": 5,
+    "title": "Yo antes de ti",
+    "description": "Escrito por Jojo Moyes",
+    "code": "abc12345",
+    "price": 12000,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 20,
+    "category": "Romance"
+  },
+  {
+    "id": 6,
+    "title": "Los devoradores de libros",
+    "description": "Escrito por Malena Torrente",
+    "code": "abc123456",
+    "price": 1350,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 20,
+    "category": "Suspenso"
+  },
+  {
+    "id": 7,
+    "title": "El príncipe",
+    "description": "Escrito por Roberto Salazar",
+    "code": "abc1234567",
+    "price": 10000,
+    "status": true,
+    "stock": 10,
+    "category": "Suspenso"
+  },
+  {
+    "id": 8,
+    "title": "¿Quién mató a Alex?",
+    "description": "Escrito por Lauren Smith",
+    "code": "abc12345678",
+    "price": 20000,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 33,
+    "category": "Misterio"
+  },
+  {
+    "id": 9,
+    "title": "Veronika decide morir",
+    "description": "Escrito por Paulo Cohelo",
+    "code": "abc123456789",
+    "price": 11000,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 12,
+    "category": "Historias de la vida"
+  },
+  {
+    "id": 10,
+    "title": "La chica del tren",
+    "description": "Escrito por Veronica Roth",
+    "code": "abc10",
+    "price": 22000,
+    "img": "Sin imagen",
+    "status": true,
+    "stock": 8,
+    "category": "Misterio"
+  }
+]
